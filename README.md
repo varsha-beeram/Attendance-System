@@ -79,16 +79,11 @@ Admin Dashboard
 Student Login  
 ![Student Login](screenshots/student_login.png)
 
-Take Attendance  
-![Take Attendance](screenshots/take_attendance.png)
+### Take Attendance
+![Take Attendance](screenshots/periodwise_attendance.png)
 
-Attendance Report  
-![Attendance Report](screenshots/report.png)
+### Attendance Report
+![Attendance Report](screenshots/attendance_report.png)
 
----
 
-## Author
 
-Varsha Beeram  
-Final Year B.Tech CSE (Data Science)  
-GitHub: https://github.com/varsha-beeram
