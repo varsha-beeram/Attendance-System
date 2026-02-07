@@ -17,31 +17,48 @@ This system provides separate modules for Admin and Student to manage and view a
 
 ## Technologies Used
 
-- PHP  
-- MySQL  
-- HTML  
-- CSS  
-- XAMPP (Apache & MySQL)  
+   ### Frontend: HTML, CSS
+
+
+   ### Backend: PHP
+
+
+   ### Database: SQL
+
+   ### Server: XAMPP (Apache & MySQL)
+
+
 
 ---
-
-## Project Structure
-
+### Project Structure
+```
 attendance_system/
-├── add_student.php
-├── admin_dashboard.php
-├── admin_login.php
-├── db.php
 ├── index.php
-├── logout.php
-├── student_attendance_report.php
-├── student_dashboard.php
+│
 ├── student_login.php
+├── student_dashboard.php
+├── student_attendance_report.php
+│
 ├── take_attendance.php
 ├── take_attendance_periodwise.php
-├── test.php
+│
+├── admin_login.php
+├── admin_dashboard.php
+├── add_student.php
+│
+├── db.php
+├── logout.php
 ├── style.css
+│
 └── screenshots/
+    ├── homepage.png
+    ├── student_login.png
+    ├── attendance_report.png
+    ├── periodwise_attendance.png
+    ├── admin_login.png
+    ├── admin_dashboard.png
+    └── admin_controls.jpeg
+```
 
 ---
 
@@ -70,20 +87,32 @@ http://localhost/Attendance-System/
 
 ## Execution Screenshots
 
-Admin Login  
-![Admin Login](screenshots/admin_login.png)
+### Homepage
+![Homepage](screenshots/homepage.png)
 
-Admin Dashboard  
-![Admin Dashboard](screenshots/admin_dashboard.png)
-
-Student Login  
+### Student Login
 ![Student Login](screenshots/student_login.png)
+
+### Attendance Report
+![Attendance Report](screenshots/attendance_report.png)
 
 ### Take Attendance
 ![Take Attendance](screenshots/periodwise_attendance.png)
 
-### Attendance Report
-![Attendance Report](screenshots/attendance_report.png)
+
+### Admin Login
+![Admin Login](screenshots/admin_login.png)
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/admin_dashboard.png)
+
+### Admin Controls
+![Admin Controls](screenshots/admin_controls.jpeg)
+
+
+
+
+
 
 
 
